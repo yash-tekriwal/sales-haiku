@@ -22,4 +22,4 @@ Visit the live site at: [https://yash-tekriwal.github.io/sales-haiku/](https://y
 
 ## License
 
-MIT License 
+MIT License
