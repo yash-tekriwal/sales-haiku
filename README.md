@@ -17,7 +17,7 @@ Visit the live site at: [https://yash-tekriwal.github.io/sales-haiku/](https://y
 ## Local Development
 
 1. Clone the repository
-2. Open `sales-haiku-generator.html` in your browser
+2. Open `index.html` in your browser
 3. Start creating your sales haikus!
 
 ## License
