@@ -12,7 +12,7 @@ A creative tool that helps sales professionals craft compelling cold emails thro
 
 ## Live Demo
 
-Visit the live site at: [https://[your-github-username].github.io/sales-haiku/](https://[your-github-username].github.io/sales-haiku/)
+Visit the live site at: [https://yash-tekriwal.github.io/sales-haiku/](https://yash-tekriwal.github.io/sales-haiku/)
 
 ## Local Development
 
